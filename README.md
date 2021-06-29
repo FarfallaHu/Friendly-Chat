@@ -7,7 +7,7 @@ Here is my google account:  farfallahudie@gmail.com Password: Thankyou12345!
 
 Admin login need to use google and firebase is link with this accound also. 
 
-Google login my need Authentication. Please check the video for all the detail.
+Google login may need Authentication. Please check the video for all the detail.
 
 
 
