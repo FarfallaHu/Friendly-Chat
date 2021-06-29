@@ -1,4 +1,4 @@
-# Friend-Chat
+# Friendly-Chat
 
 Please download Friendly.APK to run on andriod.
 
