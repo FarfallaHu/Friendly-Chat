@@ -7,6 +7,8 @@ Here is my google account:  farfallahudie@gmail.com Password: Thankyou12345!
 
 What is the compilation instructions you are looking for? I am confused.
 
+I am using Android Studio with Flutter. 
+
 Need to first upgrade dependencies. then run main.dart on andriod emulator from AVD Manager 
 
 
